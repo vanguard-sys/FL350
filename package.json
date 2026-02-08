@@ -1,4 +1,3 @@
-
 {
   "name": "fl350-aviation-apparel",
   "version": "1.0.0",
@@ -15,7 +14,8 @@
     "lucide-react": "^0.563.0",
     "stripe": "^16.0.0",
     "@sanity/client": "^6.15.11",
-    "@sanity/image-url": "^1.0.2"
+    "@sanity/image-url": "^1.0.2",
+    "@clerk/clerk-react": "^5.0.0"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
